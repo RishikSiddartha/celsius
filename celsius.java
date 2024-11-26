@@ -1,4 +1,4 @@
-public class Celsius  
+public class celsius  
  {  
    public static void main (String args[])  
     { float Fahrenheit, Celsius;  
